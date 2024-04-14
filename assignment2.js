@@ -1,0 +1,7 @@
+function toUppercase(str:string) {
+    
+}
+
+
+    
+
